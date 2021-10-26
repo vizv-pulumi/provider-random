@@ -1,0 +1,3 @@
+name: provider-random
+runtime: nodejs
+description: "Provider: random"
